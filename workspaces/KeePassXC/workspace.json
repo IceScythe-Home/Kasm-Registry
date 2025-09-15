@@ -1,6 +1,6 @@
 {
   "friendly_name": "KeepassXC",
-  "image_src": "blob:https://icescythe-home.github.io/047ede9e-cc64-4cf0-aafc-3fce95b44749",
+  "image_src": "keepassxc.png",
   "description": "KeePassXC is a free and open-source password manager.",
   "cores": 2,
   "memory": 2768,
