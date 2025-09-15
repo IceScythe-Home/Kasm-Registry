@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Blueadder Workspaces',
     description: 'My workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://icescythe-home.github.io/Kasm-Registry/',
+    listUrl: 'https://icescythe-home.github.io/kasm-registry/',
     contactUrl: 'https://github.com/IceScythe-Home/kasm-registry/issues',
   },
   reactStrictMode: true,
